@@ -4,7 +4,7 @@ import CustomTimeline, { CustomTimelineSeparator } from "../Timeline/Timeline";
 import resumeData from "../../utils/resumeData";
 import PersonOutlineOutlinedIcon from "@material-ui/icons/PersonOutlineOutlined";
 import "./Profile.css";
-import displaypic from "../../assets/images/1586461698118.gif";
+import displaypic from "../../assets/images/displayimage.jpg";
 import TimelineItem from "@material-ui/lab/TimelineItem";
 import TimelineContent from "@material-ui/lab/TimelineContent";
 import GetAppIcon from "@material-ui/icons/GetApp";
